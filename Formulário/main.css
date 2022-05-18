@@ -1,4 +1,25 @@
 h1{ font-family: monospace;
-    color: blueviolet;    
+    color: rgb(0, 0, 0);    
     text-align:center;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+
+body{font-family: monospace;
+background-color: rgba(41, 34, 169, 0.281);
+}
+
+p{ font-family: monospace;
+   
+
+}
+
+
+label{ font-size: 12px;
+
+}
+
+input { border-radius: 10px;
+    
+
 }
