@@ -65,6 +65,14 @@
         
     </div>
     <br>
-    
+    <script>
+        options.innerHTML = options.innerHTML + "<button type="button">Clique</button>";
+    </script>
+    <script>
+        var button = document.createElement('button');
+        button.setAttribute('type','button')
+        button.appendChild(document.createTextNode('Próxima página'));
+        document.body.appendChild(button);
+    </script>
 </body>
 </html>

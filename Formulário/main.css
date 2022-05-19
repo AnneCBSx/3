@@ -1,9 +1,20 @@
-h1{ font-family: monospace;
+
+
+head{padding: auto;
+
+}
+
+p{ font-style: italic;
+    font-size: large;
+
+}
+
+h1 { font-family: monospace;
     color: rgb(0, 0, 0);    
     text-align:center;
     background-color: rgb(249, 249, 249) ; 
-    background: px;
     border-radius: 10px;
+    background-size: 10%;
 }
 
 body{font-family: monospace;
@@ -11,12 +22,17 @@ background-color: rgba(41, 34, 169, 0.281);
 }
 
 p{ font-family: monospace;
-   
+
+}
+
+button{ border-radius: 5px;
+    background-color:  rgb(123, 225, 123);
 
 }
 
 
 label{ font-size: 12px;
+    font-style:italic;
 
 }
 
