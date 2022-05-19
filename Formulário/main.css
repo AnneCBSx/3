@@ -12,13 +12,10 @@ p{ font-style: italic;
 h1 { font-family: monospace;
     color: rgb(0, 0, 0);    
     text-align:center;
-    background-color: rgb(249, 249, 249) ; 
-    border-radius: 10px;
-    background-size: 10%;
 }
 
 body{font-family: monospace;
-background-color: rgba(41, 34, 169, 0.281);
+background-color: rgba(34, 47, 169, 0.281);
 }
 
 p{ font-family: monospace;
