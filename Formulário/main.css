@@ -1,7 +1,8 @@
 h1{ font-family: monospace;
     color: rgb(0, 0, 0);    
     text-align:center;
-    background-color: aliceblue;
+    background-color: rgb(249, 249, 249) ; 
+    background: px;
     border-radius: 10px;
 }
 
@@ -20,6 +21,6 @@ label{ font-size: 12px;
 }
 
 input { border-radius: 10px;
-    
+
 
 }
